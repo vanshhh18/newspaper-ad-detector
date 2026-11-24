@@ -1,3 +1,7 @@
+Demo: https://drive.google.com/file/d/1mE3uxHD0wBOjXQOicjscgbKSB3zCgoEa/view?usp=sharing
+
+---
+
 # Newspaper Advertisement Detector & Extractor
 
 An AI-powered application that detects advertisements in newspaper pages, identifies their boundaries, crops individual advertisements, and allows users to download the extracted images.
