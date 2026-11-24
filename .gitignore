@@ -1,0 +1,14 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+.DS_Store
